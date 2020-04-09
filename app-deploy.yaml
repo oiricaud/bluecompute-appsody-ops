@@ -68,5 +68,3 @@ spec:
   #serviceAccountName: kabanero-operator
   #replicas: 2
 
-
-
