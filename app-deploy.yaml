@@ -55,7 +55,7 @@ metadata:
   name: web
   namespace: dev
 spec:
-  applicationImage: dev.local/web
+applicationImage: dev.local/web123
   createKnativeService: false
   expose: true
   service:
