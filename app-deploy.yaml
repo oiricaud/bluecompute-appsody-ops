@@ -55,7 +55,7 @@ metadata:
   name: web
   namespace: dev
 spec:
-applicationImage: us.icr.io/devops-gse-poc/bluecompute-appsody-ops:af98e89a7b7c5730be99b488b96d71d26c3e0856
+applicationImage: us.icr.io/devops-gse-poc/bluecompute-appsody-ops:0e323c85e9ad69cf2f76b98bcf5200500d0ca0d6
   createKnativeService: false
   expose: true
   service:
